@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url(images/wp.jpg) no-repeat;
+    background-size: 1500px;
+    height: 100px;
+    background-attachment: fixed;
+    background-position: center;
+    
+}
+
+.main-head{
+    margin-top: 50px;
+    color: khaki;
+}
+.thead{
+    color:brown;
+    font-weight: 700;
+}
+#myTable{
+    color:antiquewhite;
+}
